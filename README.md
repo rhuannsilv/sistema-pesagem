@@ -1,3 +1,7 @@
+## 🚧 Status do projeto
+
+Em desenvolvimento.
+
 # 📦 Sistema de Pesagem
 
 ## 📖 Sobre o Projeto
